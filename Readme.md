@@ -3,8 +3,8 @@
 ### Quick Start
 
 ```console
-javac GameOfLifeMini.java
+$ javac GameOfLifeMini.java
 
-java GameOfLifeMini
+$ java GameOfLifeMini
 
 ```
