@@ -8,3 +8,4 @@ $ javac GameOfLifeMini.java
 $ java GameOfLifeMini
 
 ```
+test
